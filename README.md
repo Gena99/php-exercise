@@ -1,3 +1,13 @@
+Voilà les liens vers les dépots des exercices de la semaine
+A demain
+* [Loop](https://github.com/Gena99/php-exercises-loop)
+* [Function](https://github.com/Gena99/php-exercises-function)
+* Array : pas encore fait
+* [ParamUrl](https://github.com/Gena99/php-exercises-paramUrl)
+* [Form](https://github.com/Gena99/php-exercises-form)
+* [GlobalVariable](https://github.com/Gena99/php-exercises-globalVariable)
+* Date : pas encore fait
+
 # php-exercise
 
 **Forkez** ce repo, puis effectuez chacune de ces listes d'exercices en créant à chaque fois un dossier du nom du sujet (ex: pour php-exercices-loop, le dossier sera appelé `loop`), et un fichier qui se nomme de la même façon que l'exercice en cours (ex: `exercice1.php`).
